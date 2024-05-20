@@ -6,7 +6,7 @@
 
 I am a passionate and versatile programmer who loves computer graphics and building projects from scratch for a thorough understanding of any field. My main interests lie in low-level programming, computer graphics, and reverse engineering.
 
-I have a wide range of knowledge of various programming languages and related technologies 🧰:
+I have a wide range of knowledge of various programming languages and related technologies:
 
 #### Programming Languages
 
@@ -43,7 +43,7 @@ Currently, I'm studying computer architecture at a low level, study computer gra
 
 Besides programming, I'm passionate about music and sports. These hobbies help me stay focused and motivated in my work.
 
-#### 🌐 Contacts
+### Contacts
 
-[<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/Bocmopr)
+[<img src="https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram&logoColor=%2326A5E4"/>](https://t.me/Bocmopr)
 [<img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=%23D14836"/>](mailto:ivanbujvol5@gmail.com)
