@@ -45,5 +45,5 @@ Besides programming, I'm passionate about music and sports. These hobbies help m
 
 ### Contacts
 
-[<img src="https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram&logoColor=%2326A5E4"/>](https://t.me/Bocmopr)
+[<img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=%2326A5E4"/>](https://t.me/Bocmopr)
 [<img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=%23D14836"/>](mailto:ivanbujvol5@gmail.com)
