@@ -10,13 +10,11 @@ I have a wide range of knowledge of various programming languages and related te
 
 #### Programming Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> C
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JS
-</p>
+[![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=%23A8B9CC)]()
+[![CPP](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)]()
+[![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=%233776AB)]()
+[![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=%23ED8B00)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 
 #### Areas
 
@@ -47,11 +45,5 @@ Besides programming, I'm passionate about music and sports. These hobbies help m
 
 #### 🌐 Contacts
 
-<p align="center">
-  <a href="https://t.me/Bocmopr">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
-  </a>
-  <a href="mailto:ivanbujvol5@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/Bocmopr)
+[<img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=%23D14836"/>](mailto:ivanbujvol5@gmail.com)
